@@ -161,11 +161,12 @@ A **Databricks Job** runs the full pipeline daily at **3:00 AM** with tasks in t
 
 ![Databricks Job Pipeline](assets/job_pipeline.png)
 
-```
-[bronze_layer] → [silver_layer] → [gold_layer]
-```
+
 
 ---
+
+
+
 
 ## 🛠️ Tech Stack
 
